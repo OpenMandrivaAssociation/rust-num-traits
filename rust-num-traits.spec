@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.14
-Release:        1
+Release:        2
 Summary:        Numeric traits for generic mathematics
 
 # Upstream license specification: MIT/Apache-2.0
