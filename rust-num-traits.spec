@@ -4,8 +4,8 @@
 %global crate num-traits
 
 Name:           rust-%{crate}
-Version:        0.2.14
-Release:        2
+Version:        0.2.19
+Release:        1
 Summary:        Numeric traits for generic mathematics
 
 # Upstream license specification: MIT/Apache-2.0
